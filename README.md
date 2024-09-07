@@ -1,11 +1,9 @@
 <h1 align="center">hi 👋, i'm maphendx</h1>
-<h3 align="center">an ordinary computer science student from Ukraine who just trying to code :\|</h3>
+<h3 align="center">an ordinary computer science student from Ukraine who just trying to code :\</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maphendx&label=Profile%20views&color=0e75b6&style=flat" alt="maphendx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maphendx" alt="maphendx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/maphendx" target="blank"><img src="https://img.shields.io/twitter/follow/maphendx?logo=twitter&style=for-the-badge" alt="maphendx" /></a> </p>
+<p align="left"> <a href="https://x.com/maphendx" target="blank"><img src="https://img.shields.io/twitter/follow/maphendx?logo=twitter&style=for-the-badge" alt="maphendx" /></a> </p>
 
 - 🔭 i’m currently working on **nothing and everything in one time**
 
