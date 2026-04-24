@@ -14,33 +14,6 @@ I build web interfaces and I am currently expanding my skills in microcontroller
 
 ---
 
-## What I Work With
-
-### Frontend Development
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Responsive Web Design
-
-### Embedded Development
-- C / Embedded C
-- STM32
-- PSoC 3 / 4 / 6
-- GPIO
-- UART / SPI / I2C
-- ADC / PWM
-- Microcontroller basics
-
-### Tools
-- Git & GitHub
-- VS Code
-- STM32CubeIDE
-- PSoC Creator
-
----
-
 ## Contact
 
 - Email: **maphendx@gmail.com**
